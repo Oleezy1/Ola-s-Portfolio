@@ -271,8 +271,7 @@ header.sticky {
 
 .portfolio {
     background: #0d1014;
-    max-width: auto;
-    max-height: auto;
+    
 }
 
 .portfolio-content {
@@ -302,7 +301,7 @@ header.sticky {
 
 .layer {
     width: 100%;
-    height: 100%;
+    height: 50%;
     background: linear-gradient(rgba(0,0,0,0.1), #f70505);
     position: absolute;
     border-radius: 8px;
@@ -321,11 +320,11 @@ header.sticky {
 .layer h5 {
     font-size: 20px;
     font-weight: 600;
-    margin-bottom: 15px;
+    margin-bottom: 13px;
 }
 
 .layer p {
-    color: white;
+    color: #f6f6fa;
     font-size: 1.5rem;
     line-height: 1.8;
 }
